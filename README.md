@@ -104,9 +104,32 @@ Internal Seminar Series 2023 | University of Cambridge | Talk
 |caret|The caret R package|University of Cambridge|2023|
 
 ### Consultancy
-| **Technology** | **Course Name** | **Provider** | **Date** |
-|:---:|-----|-----|----:|
-|||||
+<table>
+  <thead>
+    <tr>
+      <th><strong>Technology</strong></th>
+      <th><strong>Course Name</strong></th>
+      <th><strong>Provider</strong></th>
+      <th><strong>Date</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>RNAseq</td>
+      <td>Transcriptome Analysis for Non-Model Organisms</td>
+      <td>University of Cambridge</td>
+      <td>2022</td>
+    </tr>
+  </tbody>
+    <tbody>
+    <tr>
+      <td>RNAseq</td>
+      <td>Transcriptome Analysis for Non-Model Organisms</td>
+      <td>University of Cambridge</td>
+      <td>2022</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Life Science
 | **Technology**| **Course Name**| **Provider**| **Date**|
