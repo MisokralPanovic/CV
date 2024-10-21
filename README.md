@@ -7,23 +7,23 @@ PhD in Molecular Pathology with expertise in data-driven research and advanced a
 
 ## Education
 ### PhD, Molecular Virology @ The University of Cambridge, England (_July 2024_)
-Thesis: ["Analysis of Human and Bovine IFIT Protein Interaction with Respiratory Syncytial Virus"](https://doi.org/10.17863/CAM.110920)
-- Key Areas: Virology, Immunology, Protein Interactions, Vaccine Development, Therapeutics, Genetic Sequencing
-- Relevant Coursework: Data Science in Python, Intermediate Supervised Machine Learning, Core Statistics with R
+**Thesis:** ["Analysis of Human and Bovine IFIT Protein Interaction with Respiratory Syncytial Virus"](https://doi.org/10.17863/CAM.110920)
+**- Key Areas:** Virology, Immunology, Protein Interactions, Vaccine Development, Therapeutics, Genetic Sequencing
+**- Relevant Coursework:** Data Science in Python, Intermediate Supervised Machine Learning, Core Statistics with R
 - Developed a strong expertise in translational research, applying advanced machine learning techniques to analyze large datasets (RNAseq) and uncover critical insights into viral mechanisms and protein interactions. Mastered RT-qPCR, Western Blot, Confocal Imaging, Immunoprecipitation, and viral infection assays.
 
 ### MSci, Medical Sciences (Pharmacology) @ The University of Aberdeen, Scotland (_July 2019_)
-Classification: First-class honours (4 GPA equivalent)
-- Key Areas: Pharmacology, Physiology, Pathology, Healthcare, Therapeutics, Clinical Trial Design
+**Classification:** First-class honours (4 GPA equivalent)
+**- Key Areas:** Pharmacology, Physiology, Pathology, Healthcare, Therapeutics, Clinical Trial Design
 - Gained in-depth knowledge of healthcare systems, drug development, and clinical research methodologies. Solidified a foundation in data-driven approaches to pharmacological research, focusing on therapeutics.
 
 
 ## Work Experience
 ### PhD Candidate @ [University of Cambridge](https://www.path.cam.ac.uk/directory/ian-brierley) (_October 2019 - July 2024_)
--	Data-Driven Research: Developed and implemented machine learning models to analyze RNAseq data from over 150 samples, improving predictive accuracy by 20% and identifying novel therapeutic targets.
+-	**Data-Driven Research:** Developed and implemented machine learning models to analyze RNAseq data from over 150 samples, improving predictive accuracy by 20% and identifying novel therapeutic targets.
 -	Advanced Experimental Techniques: Utilized RT-qPCR, Western Blot, Confocal Imaging, RNAseq, and Immunoprecipitation to validate findings and advance the field of viral immunology.
--	Project Management: Led a multi-year research project, managing timelines, resources, and collaborating across multidisciplinary teams.
--	Outreach: Successfully communicated complex data to diverse audiences at international conferences, contributing to the scientific community and enhancing collaborative efforts. Engaged in science communication by visiting schools to explain scientific concepts, fostering a passion for science in younger audiences.
+-	**Project Management:** Led a multi-year research project, managing timelines, resources, and collaborating across multidisciplinary teams.
+-	**Outreach:** Successfully communicated complex data to diverse audiences at international conferences, contributing to the scientific community and enhancing collaborative efforts. Engaged in science communication by visiting schools to explain scientific concepts, fostering a passion for science in younger audiences.
 
 Skills: 
 
@@ -35,14 +35,14 @@ Skills:
 Skills: 
 
 ### Undergraduate Research Fellow @ [University of Aberdeen](https://www.abdn.ac.uk/people/c.debari#research) (_January 2019 - March 2019_)
-Project: Developing RNA interference technologies for targeting stem cells in joint tissues
+**Project:** Developing RNA interference technologies for targeting stem cells in joint tissues
 -	Conducted statistical analysis and data visualisation of histological samples.
 -	Collaborated with a team of researchers to develop and optimise semi-automatic experimental protocols, resulting in a 47% reduction in analysis time while also reducing bias, resulting in more accurate outcomes.
 
 Skills: 
 
 ### Undergraduate Research Fellow @ [EMBL Heidelberg](https://www.embl.org/groups/gavin/) (_July 2017 - July 2018_)
-Project: Characterisation of lipid transfer proteins
+**Project:** Characterisation of lipid transfer proteins
 -	Prepared and analysed plasmid libraries for 106 EGFP-tagged lipid transfer proteins, streamlining the workflow and reducing preparation time by 15%.
 
 Skills: 
