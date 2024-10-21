@@ -9,14 +9,14 @@ PhD in Molecular Pathology with expertise in data-driven research and advanced a
 ### PhD, Molecular Virology @ The University of Cambridge, England (_July 2024_)
 **Thesis:** ["Analysis of Human and Bovine IFIT Protein Interaction with Respiratory Syncytial Virus"](https://doi.org/10.17863/CAM.110920)
 
-**- Key Areas:** Virology, Immunology, Protein Interactions, Vaccine Development, Therapeutics, Genetic Sequencing
-**- Relevant Coursework:** Data Science in Python, Intermediate Supervised Machine Learning, Core Statistics with R
+- **Key Areas:** Virology, Immunology, Protein Interactions, Vaccine Development, Therapeutics, Genetic Sequencing
+- **Relevant Coursework:** Data Science in Python, Intermediate Supervised Machine Learning, Core Statistics with R
 - Developed a strong expertise in translational research, applying advanced machine learning techniques to analyze large datasets (RNAseq) and uncover critical insights into viral mechanisms and protein interactions. Mastered RT-qPCR, Western Blot, Confocal Imaging, Immunoprecipitation, and viral infection assays.
 
 ### MSci, Medical Sciences (Pharmacology) @ The University of Aberdeen, Scotland (_July 2019_)
 **Classification:** First-class honours (4 GPA equivalent)
 
-**- Key Areas:** Pharmacology, Physiology, Pathology, Healthcare, Therapeutics, Clinical Trial Design
+- **Key Areas:** Pharmacology, Physiology, Pathology, Healthcare, Therapeutics, Clinical Trial Design
 - Gained in-depth knowledge of healthcare systems, drug development, and clinical research methodologies. Solidified a foundation in data-driven approaches to pharmacological research, focusing on therapeutics.
 
 
