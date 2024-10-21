@@ -95,23 +95,26 @@ Internal Seminar Series 2023 | University of Cambridge | Talk
 ## Courses
 ### Data Analytics
 | **Technology** | **Course Name** | **Provider** | **Date** |
-|:--------------:|-----------------|--------------|---------:|
+|:---:|-----|-----|----:|
 |||||
 
 ### Data Science
 | **Technology** | **Course Name** | **Provider** | **Date** |
-|:--------------:|-----------------|--------------|---------:|
-|||||
+|:---:|-----|-----|----:|
+|caret|The caret R package|University of Cambridge|2023|
 
 ### Consultancy
 | **Technology** | **Course Name** | **Provider** | **Date** |
-|:--------------:|-----------------|--------------|---------:|
+|:---:|-----|-----|----:|
 |||||
 
 ### Life Science
-| **Technology** | **Course Name** | **Provider** | **Date** |
-|:--------------:|-----------------|--------------|---------:|
+| **Technology**| **Course Name**| **Provider**| **Date**|
+|:---:|-----|-----|----:|
 |RNAseq|Transcriptome Analysis for Non-Model Organisms|University of Cambridge|2022|
+|Ensembl REST API|Ensembl REST API Course|University of Cambridge|2022|
+|Ensembl Browser|Ensembl Browser Workshop|University of Cambridge|2022|
+|ArrayExpress,  Expression Atlas|Transcriptomics Data and Tools|EMBL EBI|2022|
 
 ## Publications
 1. **Varga, M.** (2024). The Interplay of RSV and IFITs: A comprehensive analysis of human and bovine Interferon-Induced Proteins with Tetratricopeptide Repeats induction and interaction with human and bovine Respiratory Syncytial Virus [Apollo - University of Cambridge Repository]. [https://doi.org/10.17863/CAM.110920](https://doi.org/10.17863/CAM.110920)
