@@ -41,7 +41,7 @@ Project: Developing RNA interference technologies for targeting stem cells in jo
 
 Skills: 
 
-### Undergraduate Research Fellow @ EMBL Heidelberg (_July 2017 - July 2018_)
+### Undergraduate Research Fellow @ [EMBL Heidelberg](https://www.embl.org/groups/gavin/) (_July 2017 - July 2018_)
 Project: Characterisation of lipid transfer proteins
 -	Prepared and analysed plasmid libraries for 106 EGFP-tagged lipid transfer proteins, streamlining the workflow and reducing preparation time by 15%.
 
@@ -114,5 +114,5 @@ Internal Seminar Series 2023 | University of Cambridge | Talk
 |RNAseq|Transcriptome Analysis for Non-Model Organisms|University of Cambridge|2022|
 
 ## Publications
-1. **Varga, M.** (2024). The Interplay of RSV and IFITs: A comprehensive analysis of human and bovine Interferon-Induced Proteins with Tetratricopeptide Repeats induction and interaction with human and bovine Respiratory Syncytial Virus [Apollo - University of Cambridge Repository]. https://doi.org/10.17863/CAM.110920
-2. Conceicao, C., Thakur, N., Human, S., Kelly, J. T., Logan, L., Bialy, D., Bhat, S., Stevenson-Leggett, P., Zagrajek, A. K., Hollinghurst, P., **Varga, M.**, Tsirigoti, C., Tully, M., Chiu, C., Moffat, K., Silesian, A. P., Hammond, J. A., Maier, H. J., Bickerton, E., Shelton, H., Dietrich, I., Graham, S. C., Bailey, D. (2020). The SARS-CoV-2 Spike protein has a broad tropism for mammalian ACE2 proteins. PLOS Biology, 18(12), e3001016. https://doi.org/10.1371/journal.pbio.3001016
+1. **Varga, M.** (2024). The Interplay of RSV and IFITs: A comprehensive analysis of human and bovine Interferon-Induced Proteins with Tetratricopeptide Repeats induction and interaction with human and bovine Respiratory Syncytial Virus [Apollo - University of Cambridge Repository]. [https://doi.org/10.17863/CAM.110920](https://doi.org/10.17863/CAM.110920)
+2. Conceicao, C., Thakur, N., Human, S., Kelly, J. T., Logan, L., Bialy, D., Bhat, S., Stevenson-Leggett, P., Zagrajek, A. K., Hollinghurst, P., **Varga, M.**, Tsirigoti, C., Tully, M., Chiu, C., Moffat, K., Silesian, A. P., Hammond, J. A., Maier, H. J., Bickerton, E., Shelton, H., Dietrich, I., Graham, S. C., Bailey, D. (2020). The SARS-CoV-2 Spike protein has a broad tropism for mammalian ACE2 proteins. PLOS Biology, 18(12), e3001016. [https://doi.org/10.1371/journal.pbio.3001016](https://doi.org/10.1371/journal.pbio.3001016)
