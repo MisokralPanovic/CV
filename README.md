@@ -94,14 +94,41 @@ Internal Seminar Series 2023 | University of Cambridge | Talk
 
 ## Courses
 ### Data Analytics
-| **Technology** | **Course Name** | **Provider** | **Date** |
-|:---:|-----|-----|----:|
-|||||
+<table>
+  <thead>
+    <tr>
+      <th><strong>Technology</strong></th>
+      <th><strong>Course Name</strong></th>
+      <th><strong>Provider</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Data Science
-| **Technology** | **Course Name** | **Provider** | **Date** |
-|:---:|-----|-----|----:|
-|caret|The caret R package|University of Cambridge|2023|
+<table>
+  <thead>
+    <tr>
+      <th><strong>Technology</strong></th>
+      <th><strong>Course Name</strong></th>
+      <th><strong>Provider</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>caret</td>
+      <td>The caret R package</td>
+      <td>University of Cambridge</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### Consultancy
 <table>
@@ -110,7 +137,24 @@ Internal Seminar Series 2023 | University of Cambridge | Talk
       <th><strong>Technology</strong></th>
       <th><strong>Course Name</strong></th>
       <th><strong>Provider</strong></th>
-      <th><strong>Date</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+### Life Science
+<table>
+  <thead>
+    <tr>
+      <th><strong>Technology</strong></th>
+      <th><strong>Course Name</strong></th>
+      <th><strong>Provider</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -118,26 +162,24 @@ Internal Seminar Series 2023 | University of Cambridge | Talk
       <td>RNAseq</td>
       <td>Transcriptome Analysis for Non-Model Organisms</td>
       <td>University of Cambridge</td>
-      <td>2022</td>
     </tr>
-  </tbody>
-    <tbody>
     <tr>
-      <td>RNAseq</td>
-      <td>Transcriptome Analysis for Non-Model Organisms</td>
+      <td>Ensembl REST API</td>
+      <td>Ensembl REST API Course</td>
       <td>University of Cambridge</td>
-      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Ensembl Browser</td>
+      <td>Ensembl Browser Workshop</td>
+      <td>University of Cambridge</td>
+    </tr>
+    <tr>
+      <td>ArrayExpress,  Expression Atlas</td>
+      <td>Transcriptomics Data and Tools</td>
+      <td>EMBL EBI</td>
     </tr>
   </tbody>
 </table>
-
-### Life Science
-| **Technology**| **Course Name**| **Provider**| **Date**|
-|:---:|-----|-----|----:|
-|RNAseq|Transcriptome Analysis for Non-Model Organisms|University of Cambridge|2022|
-|Ensembl REST API|Ensembl REST API Course|University of Cambridge|2022|
-|Ensembl Browser|Ensembl Browser Workshop|University of Cambridge|2022|
-|ArrayExpress,  Expression Atlas|Transcriptomics Data and Tools|EMBL EBI|2022|
 
 ## Publications
 1. **Varga, M.** (2024). The Interplay of RSV and IFITs: A comprehensive analysis of human and bovine Interferon-Induced Proteins with Tetratricopeptide Repeats induction and interaction with human and bovine Respiratory Syncytial Virus [Apollo - University of Cambridge Repository]. [https://doi.org/10.17863/CAM.110920](https://doi.org/10.17863/CAM.110920)
