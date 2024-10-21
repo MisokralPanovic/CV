@@ -19,7 +19,7 @@ Classification: First-class honours (4 GPA equivalent)
 
 
 ## Work Experience
-### PhD Candidate @ University of Cambridge (_October 2019 - July 2024_)
+### PhD Candidate @ [University of Cambridge](https://www.path.cam.ac.uk/directory/ian-brierley) (_October 2019 - July 2024_)
 -	Data-Driven Research: Developed and implemented machine learning models to analyze RNAseq data from over 150 samples, improving predictive accuracy by 20% and identifying novel therapeutic targets.
 -	Advanced Experimental Techniques: Utilized RT-qPCR, Western Blot, Confocal Imaging, RNAseq, and Immunoprecipitation to validate findings and advance the field of viral immunology.
 -	Project Management: Led a multi-year research project, managing timelines, resources, and collaborating across multidisciplinary teams.
@@ -27,14 +27,14 @@ Classification: First-class honours (4 GPA equivalent)
 
 Skills: 
 
-### IT/Computer Officer @ Selwyn College MCR (_October 2022 - October 2023_)
+### IT/Computer Officer @ [Selwyn College MCR](http://www-mcr.sel.cam.ac.uk/) (_October 2022 - October 2023_)
 -	Acted as the primary liaison between graduate students and the college IT department, ensuring effective communication and swift resolution of technical issues.
 -	Managed college mailing lists and optimized communication channels, enhancing the accuracy and efficiency of information dissemination.
 -	Led the redesign and optimization of the MCR website, improving user experience and ensuring alignment with college standards.
 
 Skills: 
 
-### Undergraduate Research Fellow @ University of Aberdeen (_January 2019 - March 2019_)
+### Undergraduate Research Fellow @ [University of Aberdeen](https://www.abdn.ac.uk/people/c.debari#research) (_January 2019 - March 2019_)
 Project: Developing RNA interference technologies for targeting stem cells in joint tissues
 -	Conducted statistical analysis and data visualisation of histological samples.
 -	Collaborated with a team of researchers to develop and optimise semi-automatic experimental protocols, resulting in a 47% reduction in analysis time while also reducing bias, resulting in more accurate outcomes.
@@ -49,40 +49,44 @@ Skills:
 
 ## Projects
 ### Data Analytics
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 ### Data Science
+
 
 ### Consultancy
 
+
 ### Life Science
+
 
 ## Skills
 ### Data Analytics
+- **Programming:** python (pandas, numpy, matplotlib), R (tidyverse, data.table)
 
 ### Data Science
+- **Programming:** python (tensorflow), R (caret), Weka, Snowflake
 
 ### Consultancy
+- **Programming:** Excel, 
 
 ### Life Science
+- **Programming:** SAS, JASP, R (DESeq2), python (biopython)
+- **Lab Technical Expertise:** RT-qPCR, Western Blot, Confocal Imaging, RNAseq, Immunoprecipitation, Cell Culture, Viral Infection Assays
+- **Healthcare & Research:** Extensive experience in molecular pathology and therapeutic research, with a focus on translating complex data into actionable insights for drug and vaccine development.
 
--	**Programming:** Proficiency in Python (pandas, numpy, matplotlib), R (tidyverse, ggplot2, caret)
--	**Lab Technical Expertise:** RT-qPCR, Western Blot, Confocal Imaging, RNAseq, Immunoprecipitation, Cell Culture, Viral Infection Assays
+### General
+- **Project Management and Leadership:** Resource Coordination, Experiment Planning (Gantt Charts, Weekly Plans), Mentoring Junior Researchers
+- **Languages:** Slovak (Native), English (Bilingual)
+
 -	**Data Analysis & Machine Learning:** Hypothesis Testing, Predictive Modeling, Data Mining, Statistical Analysis, Advanced Data Visualization (Excel, Power BI, Tableau)
 -	**Tools & Platforms:** Git, Jupyter Notebooks, Hadoop Ecosystem, UNIX/Bash
 -	**Theoretical knowledge** of big data, text mining, predictive modelling, SQL, and agile management methodology
--	**Project Management and Leadership:** Resource Coordination, Experiment Planning (Gantt Charts, Weekly Plans), Mentoring Junior Researchers
--	**Languages:** Slovak (Native), English (Bilingual)
--	**Healthcare & Research:** Extensive experience in molecular pathology and therapeutic research, with a focus on translating complex data into actionable insights for drug and vaccine development.
 
 
 ## Conferences and Talks
-- MicroSoc Conference 2022 | Belfast | Poster Presentation
-- Internal Seminar Series 2023 | Uni of Cambridge | Talk
+MicroSoc Conference 2022 | Belfast | Poster Presentation
+Internal Seminar Series 2023 | Uni of Cambridge | Talk
 
 ## Courses
 ### Data Analytics
