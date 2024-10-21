@@ -49,16 +49,97 @@ Skills:
 
 ## Projects
 ### Data Analytics
+## Project 1: [Analysis of forecasting competition aggregation method performance](https://github.com/MisokralPanovic/Forecasting-Competition-Data-Analysis)
+This report investigates the performance of different aggregation methods for forecasting competition assessment, using the RCT-A dataset from the HFC competition. I evaluated the five aggregation methods and proposed an improvement based on the best-performing method.
 
+The dataset was analysed using the data.table R package, which allows fast and memory efficient handling of data.
+
+**Skills:** R data.tables, RMarkdown
+
+## Project 2: Name of project (link to github page)
+Description text of what it is
+Picture from analysis
+
+## Project 3: Name of project (link to github page)
+Description text of what it is
+
+Picture from analysis
+
+**Skills:** 
 
 ### Data Science
+## Project 1: Name of project (link to github page)
+Description text of what it is
+
+Picture from analysis
+
+**Skills:** 
+## Project 2: Name of project (link to github page)
+Description text of what it is
+
+Picture from analysis
+
+**Skills:** 
+
+## Project 3: Name of project (link to github page)
+Description text of what it is
+
+Picture from analysis
+
+**Skills:** 
 
 
 ### Consultancy
+## Project 1: Name of project (link to github page)
+Description text of what it is
+
+Picture from analysis
+
+**Skills:** 
+
+## Project 2: Name of project (link to github page)
+Description text of what it is
+
+Picture from analysis
+
+**Skills:** 
+
+## Project 3: Name of project (link to github page)
+Description text of what it is
+
+Picture from analysis
+
+**Skills:** 
 
 
 ### Life Science
+## Project 1: [qPCR Analysis Pipeline](https://github.com/MisokralPanovic/qPCR-Analysis-Template)
+A template folder structure for qPCR analysis. Template scripts for statistical analysis, plotting and data processing of log2_ddCt, copy number, standard curves and raw Ct data are provided. Templates of .cvs files where to store data to be processed are provided as well (per main value type).
 
+Picture from analysis
+
+**Skills:** R tidyverse, statistics
+
+## Project 2: [Confocal Microscopy Relative Intensities Establishemnt](https://github.com/MisokralPanovic/Confocal-Microscopy)
+Organisation System for Confocal Microscopy
+
+Picture from analysis
+
+**Skills:** 
+
+## Project 3: [RNAseq Pipeline](link to github page)
+Description text of what it is
+
+Picture from analysis
+
+**Skills:** 
+
+## Project 4: [PhD Thesis](https://github.com/MisokralPanovic/Thesis)
+Description text of what it is
+
+Picture from analysis
+
+**Skills:** LaTex
 
 ## Skills
 ### Data Analytics
@@ -77,7 +158,7 @@ Skills:
 - **Tools & Platforms:** PowerPoint, Word
 
 ### Life Science
-- **Programming:** SAS, JASP, Jamovi, R (DESeq2), python (biopython)
+- **Programming:** SAS, JASP, Jamovi, R (DESeq2), python (biopython), QuPath, CellProfiler
 - **Tools & Platforms:** <!-- Websites and tools like stuff for genealogy tree, genome anotation, mapping, etc (check the master table) -->
 - **Lab Technical Expertise:** RT-qPCR, Western Blot, Confocal Imaging, RNAseq, Immunoprecipitation, Cell Culture, Viral Infection Assays
 - **Healthcare & Research:** Extensive experience in molecular pathology and therapeutic research, with a focus on translating complex data into actionable insights for drug and vaccine development.
