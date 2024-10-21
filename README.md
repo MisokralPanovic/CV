@@ -77,7 +77,7 @@ Skills:
 - **Tools & Platforms:** PowerPoint, Word
 
 ### Life Science
-- **Programming:** SAS, JASP, R (DESeq2), python (biopython)
+- **Programming:** SAS, JASP, Jamovi, R (DESeq2), python (biopython)
 - **Tools & Platforms:** <!-- Websites and tools like stuff for genealogy tree, genome anotation, mapping, etc (check the master table) -->
 - **Lab Technical Expertise:** RT-qPCR, Western Blot, Confocal Imaging, RNAseq, Immunoprecipitation, Cell Culture, Viral Infection Assays
 - **Healthcare & Research:** Extensive experience in molecular pathology and therapeutic research, with a focus on translating complex data into actionable insights for drug and vaccine development.
@@ -89,17 +89,29 @@ Skills:
 
 
 ## Conferences and Talks
-MicroSoc Conference 2022 | Belfast | Poster Presentation
-Internal Seminar Series 2023 | Uni of Cambridge | Talk
+MicroSoc Conference 2022 | Belfast | Poster Presentation \\
+Internal Seminar Series 2023 | University of Cambridge | Talk
 
 ## Courses
 ### Data Analytics
+| **Technology** | **Course Name** | **Provider** | **Date** |
+|:--------------:|-----------------|--------------|---------:|
+|||||
 
 ### Data Science
+| **Technology** | **Course Name** | **Provider** | **Date** |
+|:--------------:|-----------------|--------------|---------:|
+|||||
 
 ### Consultancy
+| **Technology** | **Course Name** | **Provider** | **Date** |
+|:--------------:|-----------------|--------------|---------:|
+|||||
 
 ### Life Science
+| **Technology** | **Course Name** | **Provider** | **Date** |
+|:--------------:|-----------------|--------------|---------:|
+|RNAseq|Transcriptome Analysis for Non-Model Organisms|University of Cambridge|2022|
 
 ## Publications
 1. **Varga, M.** (2024). The Interplay of RSV and IFITs: A comprehensive analysis of human and bovine Interferon-Induced Proteins with Tetratricopeptide Repeats induction and interaction with human and bovine Respiratory Syncytial Virus [Apollo - University of Cambridge Repository]. https://doi.org/10.17863/CAM.110920
