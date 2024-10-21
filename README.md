@@ -62,26 +62,30 @@ Skills:
 
 ## Skills
 ### Data Analytics
-- **Programming:** python (pandas, numpy, matplotlib), R (tidyverse, data.table)
+- **Programming:** python (pandas, numpy, matplotlib), R (tidyverse, data.table), Markdown
+- **Tools & Platforms:** Git, Jupyter Notebooks, Hadoop Ecosystem, UNIX/Bash
+- **Subject Knowledge:** Hypothesis Testing, Data Mining, Statistical Analysis, Advanced Data Visualization (Excel, Power BI, Tableau)
+- **Theoretical knowledge** of big data, text mining, predictive modelling, SQL, and agile management methodology
 
 ### Data Science
-- **Programming:** python (tensorflow), R (caret), Weka, Snowflake
+- **Programming:** python (tensorflow), R (caret), Weka, Snowflake, Markdown
+- **Tools & Platforms:**
+- **Subject Knowledge:** Predictive Modeling,
 
 ### Consultancy
-- **Programming:** Excel, 
+- **Programming:** Excel, LaTex
+- **Tools & Platforms:** PowerPoint, Word
 
 ### Life Science
 - **Programming:** SAS, JASP, R (DESeq2), python (biopython)
+- **Tools & Platforms:** <!-- Websites and tools like stuff for genealogy tree, genome anotation, mapping, etc (check the master table) -->
 - **Lab Technical Expertise:** RT-qPCR, Western Blot, Confocal Imaging, RNAseq, Immunoprecipitation, Cell Culture, Viral Infection Assays
 - **Healthcare & Research:** Extensive experience in molecular pathology and therapeutic research, with a focus on translating complex data into actionable insights for drug and vaccine development.
+- **Subject Knowledge:**
 
 ### General
 - **Project Management and Leadership:** Resource Coordination, Experiment Planning (Gantt Charts, Weekly Plans), Mentoring Junior Researchers
 - **Languages:** Slovak (Native), English (Bilingual)
-
--	**Data Analysis & Machine Learning:** Hypothesis Testing, Predictive Modeling, Data Mining, Statistical Analysis, Advanced Data Visualization (Excel, Power BI, Tableau)
--	**Tools & Platforms:** Git, Jupyter Notebooks, Hadoop Ecosystem, UNIX/Bash
--	**Theoretical knowledge** of big data, text mining, predictive modelling, SQL, and agile management methodology
 
 
 ## Conferences and Talks
