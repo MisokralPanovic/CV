@@ -160,7 +160,7 @@ Picture from analysis
 - **Tools & Platforms:** PowerPoint, Word
 
 ### Life Science
-- **Programming:** SAS, JASP, Jamovi, R (DESeq2), python (biopython), QuPath, CellProfiler
+- **Programming:** SAS, JASP, Jamovi, R (DESeq2), python (biopython), QuPath, CellProfiler, PyMol
 - **Tools & Platforms:** <!-- Websites and tools like stuff for genealogy tree, genome anotation, mapping, etc (check the master table) -->
 - **Lab Technical Expertise:** RT-qPCR, Western Blot, Confocal Imaging, RNAseq, Immunoprecipitation, Cell Culture, Viral Infection Assays
 - **Healthcare & Research:** Extensive experience in molecular pathology and therapeutic research, with a focus on translating complex data into actionable insights for drug and vaccine development.
