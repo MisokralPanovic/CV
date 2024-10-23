@@ -143,13 +143,13 @@ Picture from analysis
 
 **Skills:**
 
-## Project 3: [RNAseq Pipeline](link to github page)
+## Project 3: [RNAseq Pipeline](https://github.com/MisokralPanovic/RNAseq)
 
 Description text of what it is
 
 Picture from analysis
 
-**Skills:**
+**Skills:** DESeq2, 
 
 ## Project 4: [PhD Thesis](https://github.com/MisokralPanovic/Thesis)
 
