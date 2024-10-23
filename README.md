@@ -32,15 +32,7 @@ PhD in Molecular Pathology with expertise in data-driven research and advanced a
 -	**Project Management:** Led a multi-year research project, managing timelines, resources, and collaborating across multidisciplinary teams.
 -	**Outreach:** Successfully communicated complex data to diverse audiences at international conferences, contributing to the scientific community and enhancing collaborative efforts. Engaged in science communication by visiting schools to explain scientific concepts, fostering a passion for science in younger audiences.
 
-Skills:
-
-### IT/Computer Officer @ [Selwyn College MCR](http://www-mcr.sel.cam.ac.uk/) (_October 2022 - October 2023_)
-
--	Acted as the primary liaison between graduate students and the college IT department, ensuring effective communication and swift resolution of technical issues.
--	Managed college mailing lists and optimized communication channels, enhancing the accuracy and efficiency of information dissemination.
--	Led the redesign and optimization of the MCR website, improving user experience and ensuring alignment with college standards.
-
-Skills:
+Skills: RT-qPCR, Western Blot, Confocal Imaging, RNAseq, Immunoprecipitation, PCR
 
 ### Undergraduate Research Fellow @ [University of Aberdeen](https://www.abdn.ac.uk/people/c.debari#research) (_January 2019 - March 2019_)
 
@@ -48,14 +40,14 @@ Skills:
 -	Conducted statistical analysis and data visualisation of histological samples.
 -	Collaborated with a team of researchers to develop and optimise semi-automatic experimental protocols, resulting in a 47% reduction in analysis time while also reducing bias, resulting in more accurate outcomes.
 
-Skills:
+Skills: RT-qPCR, tissue staining, QuPath
 
 ### Undergraduate Research Fellow @ [EMBL Heidelberg](https://www.embl.org/groups/gavin/) (_July 2017 - July 2018_)
 
 **Project:** Characterisation of lipid transfer proteins
 -	Prepared and analysed plasmid libraries for 106 EGFP-tagged lipid transfer proteins, streamlining the workflow and reducing preparation time by 15%.
 
-Skills:
+Skills: agarose gel DNA electrophoresis, molecular cloning
 
 ## Projects
 
@@ -161,11 +153,14 @@ Picture from analysis
 
 ## Project 4: [PhD Thesis](https://github.com/MisokralPanovic/Thesis)
 
-Description text of what it is
+This repository contains the LaTeX source files and supporting materials for my PhD thesis, which was successfully defended at the University of Cambridge. The project demonstrates my ability to:
 
-Picture from analysis
+- **Write in LaTeX:** I used LaTeX for the entire document creation process, showcasing my proficiency with the platform, particularly for managing complex academic documents.
+- **Work with Large Documents:** The thesis, comprising multiple chapters, appendices, figures, tables, and references, highlights my ability to structure and organize extensive documents efficiently.
+- **Academic/Medical Writing:** The content focuses on advanced topics in molecular pathology, pharmacology, and virology, evidencing my ability to communicate complex scientific research clearly and effectively.
+- **File and Project Management:** This repository illustrates my ability to manage a large-scale writing project, including version control, organizing LaTeX files, and handling the compilation of a document with multiple components.
 
-**Skills:** LaTex
+**Skills:** LaTex, Git, GitHub, academic writing, file management
 
 ## Skills
 
