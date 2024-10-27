@@ -66,12 +66,21 @@ The dataset was analysed using the data.table R package, which allows fast and m
 Description text of what it is
 Picture from analysis
 
-## Project 3: [Name of project](link to github page)
+**Skills:** beautiful soup, pandas
+
+## Project 3: [Web Application Development with Django](link to github page)
 Description text of what it is
 
 Picture from analysis
 
-**Skills:**
+**Skills:** django
+
+## Project 4: [Some stuff with TABLOE](link to github page)
+Description text of what it is
+
+Picture from analysis
+
+**Skills:** tabloe
 
 ### Data Science
 
@@ -82,32 +91,6 @@ Description text of what it is
 Picture from analysis
 
 **Skills:**
-## Project 2: [Name of project](link to github page)
-
-Description text of what it is
-
-Picture from analysis
-
-**Skills:**
-
-## Project 3: [Name of project](link to github page)
-
-Description text of what it is
-
-Picture from analysis
-
-**Skills:**
-
-### Consultancy
-
-## Project 1: [Name of project](link to github page)
-
-Description text of what it is
-
-Picture from analysis
-
-**Skills:**
-
 ## Project 2: [Name of project](link to github page)
 
 Description text of what it is
@@ -196,8 +179,11 @@ This repository contains the LaTeX source files and supporting materials for my 
 
 ## Conferences and Talks
 
-MicroSoc Conference 2022 | Belfast | Poster Presentation \\
-Internal Seminar Series 2023 | University of Cambridge | Talk
+| Event | Place | Year | Action |
+| --- | --- | --- | --- |
+| MicroSoc Conference | Belfast | 2022 | Poster Presentation |
+| Internal Seminar Series | University of Cambridge | 2023 | Talk |
+
 
 ## Courses
 
