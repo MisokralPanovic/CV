@@ -129,9 +129,9 @@ Picture from analysis
 
 ## Project 1: [qPCR Analysis Pipeline](https://github.com/MisokralPanovic/qPCR-Analysis-Template)
 
-A template folder structure for qPCR analysis. Template scripts for statistical analysis, plotting and data processing of log2_ddCt, copy number, standard curves and raw Ct data are provided. Templates of .cvs files where to store data to be processed are provided as well (per main value type).
+Developed a robust qPCR analysis pipeline in R to address the challenges of varying amplification efficiencies across different primers. The pipeline constructs a standard curve for accurate copy number extrapolation, normalizes target gene data using log2 deltaCt values of a housekeeping gene, and outputs adjusted copy numbers for reliable comparison across experimental conditions. Using R and the tidyverse, I automated data manipulation, statistical analysis, and visualization within an RMarkdown document, producing a reproducible and transparent workflow for quantitative gene expression analysis in life sciences.
 
-Picture from analysis
+![](https://github.com/MisokralPanovic/qPCR-Analysis-Template/blob/main/Figures/plot_normalised_values_bIFIT1.png)
 
 **Skills:** R (tidyverse), Data Wrangling and Transformation, Statistical Analysis, Data Visualization (ggplot2), Scientific Data Interpretation, RMarkdown Automation and Reproducibility
 
