@@ -61,13 +61,12 @@ The dataset was analysed using the data.table R package, which allows fast and m
 
 **Skills:** R data.tables, RMarkdown
 
-## Project 2: [Web Scraping Tabular Data with Python]([link to github page](https://github.com/MisokralPanovic/Web-Scraping-Tabular-Data))
+## Project 2: [Web Scraping Tabular Data with Python](https://github.com/MisokralPanovic/Web-Scraping-Tabular-Data)
 
 Description text of what it is
 Picture from analysis
 
-## Project 3: Name of project (link to github page
-)
+## Project 3: [Name of project](link to github page)
 Description text of what it is
 
 Picture from analysis
@@ -76,14 +75,14 @@ Picture from analysis
 
 ### Data Science
 
-## Project 1: Name of project (link to github page)
+## Project 1: [Name of project](link to github page)
 
 Description text of what it is
 
 Picture from analysis
 
 **Skills:**
-## Project 2: Name of project (link to github page)
+## Project 2: [Name of project](link to github page)
 
 Description text of what it is
 
@@ -91,7 +90,7 @@ Picture from analysis
 
 **Skills:**
 
-## Project 3: Name of project (link to github page)
+## Project 3: [Name of project](link to github page)
 
 Description text of what it is
 
@@ -101,7 +100,7 @@ Picture from analysis
 
 ### Consultancy
 
-## Project 1: Name of project (link to github page)
+## Project 1: [Name of project](link to github page)
 
 Description text of what it is
 
@@ -109,7 +108,7 @@ Picture from analysis
 
 **Skills:**
 
-## Project 2: Name of project (link to github page)
+## Project 2: [Name of project](link to github page)
 
 Description text of what it is
 
@@ -117,7 +116,7 @@ Picture from analysis
 
 **Skills:**
 
-## Project 3: Name of project (link to github page)
+## Project 3: [Name of project](link to github page)
 
 Description text of what it is
 
@@ -131,7 +130,7 @@ Picture from analysis
 
 Developed a robust qPCR analysis pipeline in R to address the challenges of varying amplification efficiencies across different primers. The pipeline constructs a standard curve for accurate copy number extrapolation, normalizes target gene data using log2 deltaCt values of a housekeeping gene, and outputs adjusted copy numbers for reliable comparison across experimental conditions. Using R and the tidyverse, I automated data manipulation, statistical analysis, and visualization within an RMarkdown document, producing a reproducible and transparent workflow for quantitative gene expression analysis in life sciences.
 
-![](https://github.com/MisokralPanovic/qPCR-Analysis-Template/blob/main/Figures/plot_normalised_values_bIFIT1.png)
+![](https://raw.githubusercontent.com/MisokralPanovic/qPCR-Analysis-Template/refs/heads/main/Figures/plot_normalised_values_bIFIT1.png)
 
 **Skills:** R (tidyverse), Data Wrangling and Transformation, Statistical Analysis, Data Visualization (ggplot2), Scientific Data Interpretation, RMarkdown Automation and Reproducibility
 
