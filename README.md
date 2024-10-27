@@ -61,7 +61,7 @@ The dataset was analysed using the data.table R package, which allows fast and m
 
 **Skills:** R data.tables, RMarkdown
 
-## Project 2: Name of project (link to github page)
+## Project 2: [Web Scraping Tabular Data with Python]([link to github page](https://github.com/MisokralPanovic/Web-Scraping-Tabular-Data))
 
 Description text of what it is
 Picture from analysis
