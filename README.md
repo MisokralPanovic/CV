@@ -133,7 +133,7 @@ A template folder structure for qPCR analysis. Template scripts for statistical 
 
 Picture from analysis
 
-**Skills:** R tidyverse, statistics
+**Skills:** R (tidyverse), Data Wrangling and Transformation, Statistical Analysis, Data Visualization (ggplot2), Scientific Data Interpretation, RMarkdown Automation and Reproducibility
 
 ## Project 2: [Confocal Microscopy Relative Intensities Establishment](https://github.com/MisokralPanovic/Confocal-Microscopy)
 
