@@ -145,6 +145,14 @@ This repository contains the LaTeX source files and supporting materials for my 
 
 **Skills:** LaTex, Git, GitHub, academic writing, file management
 
+#### Project 5: [MatLab](link to repo)
+
+Description text of what it is
+
+Picture from analysis
+
+**Skills:** MatLab, 
+
 ## Skills
 
 ### Data Analytics Skills
