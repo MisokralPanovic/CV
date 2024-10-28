@@ -53,7 +53,7 @@ Skills: agarose gel DNA electrophoresis, molecular cloning
 
 ### Data Analytics
 
-## Project 1: [Analysis of forecasting competition aggregation method performance](https://github.com/MisokralPanovic/Forecasting-Competition-Data-Analysis)
+#### Project 1: [Analysis of forecasting competition aggregation method performance](https://github.com/MisokralPanovic/Forecasting-Competition-Data-Analysis)
 
 This report investigates the performance of different aggregation methods for forecasting competition assessment, using the RCT-A dataset from the HFC competition. I evaluated the five aggregation methods and proposed an improvement based on the best-performing method.
 
@@ -61,21 +61,21 @@ The dataset was analysed using the data.table R package, which allows fast and m
 
 **Skills:** R data.tables, RMarkdown
 
-## Project 2: [Web Scraping Tabular Data with Python](https://github.com/MisokralPanovic/Web-Scraping-Tabular-Data)
+#### Project 2: [Web Scraping Tabular Data with Python](https://github.com/MisokralPanovic/Web-Scraping-Tabular-Data)
 
 Description text of what it is
 Picture from analysis
 
 **Skills:** beautiful soup, pandas
 
-## Project 3: [Web Application Development with Django](link to github page)
+#### Project 3: [Web Application Development with Django](link to github page)
 Description text of what it is
 
 Picture from analysis
 
 **Skills:** django
 
-## Project 4: [Some stuff with TABLOE](link to github page)
+#### Project 4: [Some stuff with TABLOE](link to github page)
 Description text of what it is
 
 Picture from analysis
@@ -84,14 +84,7 @@ Picture from analysis
 
 ### Data Science
 
-## Project 1: [Name of project](link to github page)
-
-Description text of what it is
-
-Picture from analysis
-
-**Skills:**
-## Project 2: [Name of project](link to github page)
+#### Project 1: [Name of project](link to github page)
 
 Description text of what it is
 
@@ -99,7 +92,15 @@ Picture from analysis
 
 **Skills:**
 
-## Project 3: [Name of project](link to github page)
+#### Project 2: [Name of project](link to github page)
+
+Description text of what it is
+
+Picture from analysis
+
+**Skills:**
+
+#### Project 3: [Name of project](link to github page)
 
 Description text of what it is
 
@@ -109,7 +110,7 @@ Picture from analysis
 
 ### Life Science
 
-## Project 1: [qPCR Analysis Pipeline](https://github.com/MisokralPanovic/qPCR-Analysis-Template)
+#### Project 1: [qPCR Analysis Pipeline](https://github.com/MisokralPanovic/qPCR-Analysis-Template)
 
 Developed a robust qPCR analysis pipeline in R to address the challenges of varying amplification efficiencies across different primers. The pipeline constructs a standard curve for accurate copy number extrapolation, normalizes target gene data using log2 deltaCt values of a housekeeping gene, and outputs adjusted copy numbers for reliable comparison across experimental conditions. Using R and the tidyverse, I automated data manipulation, statistical analysis, and visualization within an RMarkdown document, producing a reproducible and transparent workflow for quantitative gene expression analysis in life sciences.
 
@@ -117,7 +118,7 @@ Developed a robust qPCR analysis pipeline in R to address the challenges of vary
 
 **Skills:** R (tidyverse), Data Wrangling and Transformation, Statistical Analysis, Data Visualization (ggplot2), Scientific Data Interpretation, RMarkdown Automation and Reproducibility
 
-## Project 2: [Confocal Microscopy Relative Intensities Establishment](https://github.com/MisokralPanovic/Confocal-Microscopy)
+#### Project 2: [Confocal Microscopy Relative Intensities Establishment](https://github.com/MisokralPanovic/Confocal-Microscopy)
 
 Organisation System for Confocal Microscopy
 
@@ -125,7 +126,7 @@ Picture from analysis
 
 **Skills:**
 
-## Project 3: [RNAseq Pipeline](https://github.com/MisokralPanovic/RNAseq)
+#### Project 3: [RNAseq Pipeline](https://github.com/MisokralPanovic/RNAseq)
 
 Description text of what it is
 
@@ -133,7 +134,7 @@ Picture from analysis
 
 **Skills:** DESeq2, 
 
-## Project 4: [PhD Thesis](https://github.com/MisokralPanovic/Thesis)
+#### Project 4: [PhD Thesis](https://github.com/MisokralPanovic/Thesis)
 
 This repository contains the LaTeX source files and supporting materials for my PhD thesis, which was successfully defended at the University of Cambridge. The project demonstrates my ability to:
 
