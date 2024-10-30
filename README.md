@@ -36,7 +36,7 @@ Skills: RT-qPCR, Western Blot, Confocal Imaging, RNAseq, Immunoprecipitation, PC
 
 ### Undergraduate Research Fellow @ [University of Aberdeen](https://www.abdn.ac.uk/people/c.debari#research) (_January 2019 - March 2019_)
 
-**Project:** Developing RNA interference technologies for targeting stem cells in joint tissues
+**Project:** [Developing RNA interference technologies for targeting stem cells in joint tissues](https://drive.google.com/file/d/1k2Eq1qXjQn7hznZHdQe3GSyw74BeMmlE/view?usp=sharing)
 -	Conducted statistical analysis and data visualisation of histological samples.
 -	Collaborated with a team of researchers to develop and optimise semi-automatic experimental protocols, resulting in a 47% reduction in analysis time while also reducing bias, resulting in more accurate outcomes.
 
