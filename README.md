@@ -44,7 +44,7 @@ Skills: RT-qPCR, tissue staining, QuPath
 
 ### Undergraduate Research Fellow @ [EMBL Heidelberg](https://www.embl.org/groups/gavin/) (_July 2017 - July 2018_)
 
-**Project:** Characterisation of lipid transfer proteins
+**Project:** [Characterisation of lipid transfer proteins](https://drive.google.com/file/d/1cywV5b0tLoMWPHP6JNHy7ENHYjmXwQ7E/view?usp=sharing)
 -	Prepared and analysed plasmid libraries for 106 EGFP-tagged lipid transfer proteins, streamlining the workflow and reducing preparation time by 15%.
 
 Skills: agarose gel DNA electrophoresis, molecular cloning
