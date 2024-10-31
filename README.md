@@ -63,17 +63,16 @@ The dataset was analysed using the data.table R package, which allows fast and m
 
 #### Project 2: [Web Scraping Tabular Data with Python](https://github.com/MisokralPanovic/Web-Scraping-Tabular-Data)
 
+In this project, I performed web scraping on the Wikipedia page for “List of Old-Growth Forests” to collect, clean, and analyze forest data from various regions worldwide. Using Python’s BeautifulSoup library, I extracted data from multiple tables with inconsistent formatting and missing information, employing custom functions to standardize the dataset for analysis. I used techniques for handling data inconsistencies, structuring a custom scraping pipeline, and conducting exploratory data analysis to answer questions about forest distribution by country and region.
+
+**Skills:** Python, BeautifulSoup, web scraping, data cleaning, regex, exploratory data analysis
+
+#### Project 4: [Some stuff with Tableau](link to github page)
 Description text of what it is
+
 Picture from analysis
 
-**Skills:** beautiful soup, pandas
-
-#### Project 4: [Some stuff with TABLOE](link to github page)
-Description text of what it is
-
-Picture from analysis
-
-**Skills:** tabloe
+**Skills:** tableau
 
 ### Data Science
 
