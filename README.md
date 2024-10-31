@@ -53,7 +53,7 @@ Skills: agarose gel DNA electrophoresis, molecular cloning
 
 ### Data Analytics
 
-#### Project 1: [Analysis of forecasting competition aggregation method performance](https://github.com/MisokralPanovic/Forecasting-Competition-Data-Analysis)
+#### Project 1: [Analysis of Forecasting Competition Aggregation Method Performance](https://github.com/MisokralPanovic/Forecasting-Competition-Data-Analysis)
 
 This report investigates the performance of different aggregation methods for forecasting competition assessment, using the RCT-A dataset from the HFC competition. I evaluated the five aggregation methods and proposed an improvement based on the best-performing method.
 
@@ -67,13 +67,6 @@ Description text of what it is
 Picture from analysis
 
 **Skills:** beautiful soup, pandas
-
-#### Project 3: [Web Application Development with Django](link to github page)
-Description text of what it is
-
-Picture from analysis
-
-**Skills:** django
 
 #### Project 4: [Some stuff with TABLOE](link to github page)
 Description text of what it is
@@ -112,7 +105,7 @@ Picture from analysis
 
 #### Project 1: [qPCR Analysis Pipeline](https://github.com/MisokralPanovic/qPCR-Analysis-Template)
 
-Developed a robust qPCR analysis pipeline in R to address the challenges of varying amplification efficiencies across different primers. The pipeline constructs a standard curve for accurate copy number extrapolation, normalizes target gene data using log2 deltaCt values of a housekeeping gene, and outputs adjusted copy numbers for reliable comparison across experimental conditions. Using R and the tidyverse, I automated data manipulation, statistical analysis, and visualization within an RMarkdown document, producing a reproducible and transparent workflow for quantitative gene expression analysis in life sciences.
+I developed a robust qPCR analysis pipeline in R to address the challenges of varying amplification efficiencies across different primers. The pipeline constructs a standard curve for accurate copy number extrapolation, normalizes target gene data using log2 deltaCt values of a housekeeping gene, and outputs adjusted copy numbers for reliable comparison across experimental conditions. Using R and the tidyverse, I automated data manipulation, statistical analysis, and visualization within an RMarkdown document, producing a reproducible and transparent workflow for quantitative gene expression analysis in life sciences.
 
 ![](https://raw.githubusercontent.com/MisokralPanovic/qPCR-Analysis-Template/refs/heads/main/Figures/plot_normalised_values_bIFIT1.png)
 
@@ -128,11 +121,9 @@ Picture from analysis
 
 #### Project 3: [RNAseq Pipeline](https://github.com/MisokralPanovic/RNAseq)
 
-Description text of what it is
+I conducted a differential expression analysis on RNA-seq data to identify genes with significant expression changes between treatment conditions. Using the DESeq2 package, I applied techniques such as normalization, dispersion estimation, and variance stabilization to process the raw counts, ensuring robust statistical testing. Exploratory analyses included principal component analysis (PCA) and sample distance clustering, which validated sample groupings and data quality. I further enhanced the results by adding gene annotations, preparing the data for downstream gene ontology (GO) enrichment analyses.
 
-Picture from analysis
-
-**Skills:** DESeq2, 
+![](https://raw.githubusercontent.com/MisokralPanovic/RNAseq/refs/heads/main/report/RNAseq-Pipeline-Report_files/figure-gfm/top_var_heatmap-1.png) 
 
 #### Project 4: [PhD Thesis](https://github.com/MisokralPanovic/Thesis)
 
@@ -145,13 +136,14 @@ This repository contains the LaTeX source files and supporting materials for my 
 
 **Skills:** LaTex, Git, GitHub, academic writing, file management
 
-#### Project 5: [MatLab](link to repo)
+### Miscellaneous
 
+#### Project 1: [Web Application Development with Django](link to github page)
 Description text of what it is
 
 Picture from analysis
 
-**Skills:** MatLab, 
+**Skills:** django
 
 ## Skills
 
