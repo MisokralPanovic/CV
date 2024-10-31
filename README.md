@@ -76,7 +76,7 @@ Picture from analysis
 
 ### Data Science
 
-#### Project 1: [Name of project](link to github page)
+#### Project 1: [OpenCV ML Confocal Image Analysis](link to github page)
 
 Description text of what it is
 
