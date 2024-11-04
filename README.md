@@ -110,21 +110,13 @@ I developed a robust qPCR analysis pipeline in R to address the challenges of va
 
 **Skills:** R (tidyverse), Data Wrangling and Transformation, Statistical Analysis, Data Visualization (ggplot2), Scientific Data Interpretation, RMarkdown Automation and Reproducibility
 
-#### Project 2: [Confocal Microscopy Relative Intensities Establishment](https://github.com/MisokralPanovic/Confocal-Microscopy)
-
-Organisation System for Confocal Microscopy
-
-Picture from analysis
-
-**Skills:**
-
-#### Project 3: [RNAseq Pipeline](https://github.com/MisokralPanovic/RNAseq)
+#### Project 2: [RNAseq Pipeline](https://github.com/MisokralPanovic/RNAseq)
 
 I conducted a differential expression analysis on RNA-seq data to identify genes with significant expression changes between treatment conditions. Using the DESeq2 package, I applied techniques such as normalization, dispersion estimation, and variance stabilization to process the raw counts, ensuring robust statistical testing. Exploratory analyses included principal component analysis (PCA) and sample distance clustering, which validated sample groupings and data quality. I further enhanced the results by adding gene annotations, preparing the data for downstream gene ontology (GO) enrichment analyses.
 
 ![](https://raw.githubusercontent.com/MisokralPanovic/RNAseq/refs/heads/main/report/RNAseq-Pipeline-Report_files/figure-gfm/top_var_heatmap-1.png) 
 
-#### Project 4: [PhD Thesis](https://github.com/MisokralPanovic/Thesis)
+#### Project 3: [PhD Thesis](https://github.com/MisokralPanovic/Thesis)
 
 This repository contains the LaTeX source files and supporting materials for my PhD thesis, which was successfully defended at the University of Cambridge. The project demonstrates my ability to:
 
