@@ -3,3 +3,4 @@ logo: /Figures/Michal_Varga.jpg
 # description: text above image
 show_downloads: = false
 theme: jekyll-theme-minimal
+markdown: kramdown
