@@ -1,3 +1,6 @@
+* TOC
+{:toc}
+
 # Recent PhD Graduate
 
 #### Technical Skills: Python, R, SQL, Snowflake
