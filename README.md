@@ -3,7 +3,7 @@
 
 # Recent PhD Graduate
 
-#### Technical Skills: Python, R, SQL, Snowflake
+#### Technical Skills: Python, R, LaTex
 
 ## Profile Summary
 
@@ -31,7 +31,7 @@ PhD in Molecular Pathology with expertise in data-driven research and advanced a
 ### PhD Candidate @ [University of Cambridge](https://www.path.cam.ac.uk/directory/ian-brierley) (_October 2019 - July 2024_)
 
 -	**Data-Driven Research:** Developed and implemented machine learning models to analyze RNAseq data from over 150 samples, improving predictive accuracy by 20% and identifying novel therapeutic targets.
--	Advanced Experimental Techniques: Utilized RT-qPCR, Western Blot, Confocal Imaging, RNAseq, and Immunoprecipitation to validate findings and advance the field of viral immunology.
+-	**Advanced Experimental Techniques:** Utilized RT-qPCR, Western Blot, Confocal Imaging, RNAseq, and Immunoprecipitation to validate findings and advance the field of viral immunology.
 -	**Project Management:** Led a multi-year research project, managing timelines, resources, and collaborating across multidisciplinary teams.
 -	**Outreach:** Successfully communicated complex data to diverse audiences at international conferences, contributing to the scientific community and enhancing collaborative efforts. Engaged in science communication by visiting schools to explain scientific concepts, fostering a passion for science in younger audiences.
 
@@ -69,7 +69,7 @@ The dataset was analysed using the data.table R package, which allows fast and m
 In this project, I performed web scraping on the Wikipedia page for “List of Old-Growth Forests” to collect, clean, and analyze forest data from various regions worldwide. Using Python’s BeautifulSoup library, I extracted data from multiple tables with inconsistent formatting and missing information, employing custom functions to standardize the dataset for analysis. I used techniques for handling data inconsistencies, structuring a custom scraping pipeline, and conducting exploratory data analysis to answer questions about forest distribution by country and region.
 
 **Skills:** Python, BeautifulSoup, web scraping, data cleaning, regex, exploratory data analysis
-
+<!--
 #### Project 4: [Some stuff with Tableau](link to github page)
 Description text of what it is
 
@@ -102,7 +102,7 @@ Description text of what it is
 Picture from analysis
 
 **Skills:**
-
+-->
 ### Life Science
 
 #### Project 1: [qPCR Analysis Pipeline](https://github.com/MisokralPanovic/qPCR-Analysis-Template)
@@ -138,7 +138,7 @@ Description text of what it is
 Picture from analysis
 
 **Skills:** django
-
+-->
 ## Skills
 
 ### Data Analytics Skills
@@ -151,7 +151,7 @@ Picture from analysis
 ### Data Science Skills
 
 - **Programming:** python (tensorflow), R (caret), Weka, Snowflake, Markdown
-- **Tools & Platforms:**
+<!-- - **Tools & Platforms:** -->
 - **Subject Knowledge:** Predictive Modelling,
 
 ### Consultancy Skills
@@ -162,10 +162,10 @@ Picture from analysis
 ### Life Science Skills
 
 - **Programming:** SAS, JASP, Jamovi, R (DESeq2), python (biopython), QuPath, CellProfiler, PyMol
-- **Tools & Platforms:** <!-- Websites and tools like stuff for genealogy tree, genome annotation, mapping, etc (check the master table) -->
+<!-- - **Tools & Platforms:**  Websites and tools like stuff for genealogy tree, genome annotation, mapping, etc (check the master table) -->
 - **Lab Technical Expertise:** RT-qPCR, Western Blot, Confocal Imaging, RNAseq, Immunoprecipitation, Cell Culture, Viral Infection Assays
 - **Healthcare & Research:** Extensive experience in molecular pathology and therapeutic research, with a focus on translating complex data into actionable insights for drug and vaccine development.
-- **Subject Knowledge:**
+<!-- - **Subject Knowledge:**  -->
 
 ### General
 
@@ -181,7 +181,7 @@ Picture from analysis
 
 
 ## Courses
-
+<!--
 ### Data Analytics Courses
 
 <table>
@@ -238,7 +238,7 @@ Picture from analysis
     </tr>
   </tbody>
 </table>
-
+-->
 ### Life Science Courses
 
 <table>
