@@ -69,7 +69,40 @@ The dataset was analysed using the data.table R package, which allows fast and m
 In this project, I performed web scraping on the Wikipedia page for “List of Old-Growth Forests” to collect, clean, and analyze forest data from various regions worldwide. Using Python’s BeautifulSoup library, I extracted data from multiple tables with inconsistent formatting and missing information, employing custom functions to standardize the dataset for analysis. I used techniques for handling data inconsistencies, structuring a custom scraping pipeline, and conducting exploratory data analysis to answer questions about forest distribution by country and region.
 
 **Skills:** Python, BeautifulSoup, web scraping, data cleaning, regex, exploratory data analysis
+<!--
+#### Project 4: [Some stuff with Tableau](link to github page)
+Description text of what it is
 
+Picture from analysis
+
+**Skills:** tableau
+
+### Data Science
+
+#### Project 1: [OpenCV ML Confocal Image Analysis](link to github page)
+
+Description text of what it is
+
+Picture from analysis
+
+**Skills:**
+
+#### Project 2: [Name of project](link to github page)
+
+Description text of what it is
+
+Picture from analysis
+
+**Skills:**
+
+#### Project 3: [Name of project](link to github page)
+
+Description text of what it is
+
+Picture from analysis
+
+**Skills:**
+-->
 ### Life Science
 
 #### Project 1: [qPCR Analysis Pipeline](https://github.com/MisokralPanovic/qPCR-Analysis-Template)
@@ -96,7 +129,16 @@ This repository contains the LaTeX source files and supporting materials for my 
 - **File and Project Management:** This repository illustrates my ability to manage a large-scale writing project, including version control, organizing LaTeX files, and handling the compilation of a document with multiple components.
 
 **Skills:** LaTex, Git, GitHub, academic writing, file management
+<!--
+### Miscellaneous
 
+#### Project 1: [Web Application Development with Django](link to github page)
+Description text of what it is
+
+Picture from analysis
+
+**Skills:** django
+-->
 ## Skills
 
 ### Data Analytics Skills
@@ -109,6 +151,7 @@ This repository contains the LaTeX source files and supporting materials for my 
 ### Data Science Skills
 
 - **Programming:** python (tensorflow), R (caret), Weka, Snowflake, Markdown
+<!-- - **Tools & Platforms:** -->
 - **Subject Knowledge:** Predictive Modelling,
 
 ### Consultancy Skills
@@ -119,8 +162,10 @@ This repository contains the LaTeX source files and supporting materials for my 
 ### Life Science Skills
 
 - **Programming:** SAS, JASP, Jamovi, R (DESeq2), python (biopython), QuPath, CellProfiler, PyMol
+<!-- - **Tools & Platforms:**  Websites and tools like stuff for genealogy tree, genome annotation, mapping, etc (check the master table) -->
 - **Lab Technical Expertise:** RT-qPCR, Western Blot, Confocal Imaging, RNAseq, Immunoprecipitation, Cell Culture, Viral Infection Assays
 - **Healthcare & Research:** Extensive experience in molecular pathology and therapeutic research, with a focus on translating complex data into actionable insights for drug and vaccine development.
+<!-- - **Subject Knowledge:**  -->
 
 ### General
 
@@ -136,7 +181,64 @@ This repository contains the LaTeX source files and supporting materials for my 
 
 
 ## Courses
+<!--
+### Data Analytics Courses
 
+<table>
+  <thead>
+    <tr>
+      <th><strong>Technology</strong></th>
+      <th><strong>Course Name</strong></th>
+      <th><strong>Provider</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+### Data Science Courses
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Technology</strong></th>
+      <th><strong>Course Name</strong></th>
+      <th><strong>Provider</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>caret</td>
+      <td>The caret R package</td>
+      <td>University of Cambridge</td>
+    </tr>
+  </tbody>
+</table>
+
+### Consultancy Courses
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Technology</strong></th>
+      <th><strong>Course Name</strong></th>
+      <th><strong>Provider</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+-->
 ### Life Science Courses
 
 <table>
