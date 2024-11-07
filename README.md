@@ -129,7 +129,7 @@ This repository contains the LaTeX source files and supporting materials for my 
 - **File and Project Management:** This repository illustrates my ability to manage a large-scale writing project, including version control, organizing LaTeX files, and handling the compilation of a document with multiple components.
 
 **Skills:** LaTex, Git, GitHub, academic writing, file management
-
+<!--
 ### Miscellaneous
 
 #### Project 1: [Web Application Development with Django](link to github page)
