@@ -3,7 +3,7 @@
 
 # Recent PhD Graduate
 
-#### Technical Skills: Python, R, LaTex
+`Technical Skills: Python, R, LaTex`
 
 ## Profile Summary
 
