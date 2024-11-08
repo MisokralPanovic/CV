@@ -108,8 +108,8 @@ This repository contains the LaTeX source files and supporting materials for my 
 
 ### Data Science Skills
 
-- **Programming:** python (tensorflow), R (caret), Weka, Snowflake, Markdown
-- **Subject Knowledge:** Predictive Modelling,
+- **Programming:** R (caret), Weka, Snowflake, Markdown
+- **Subject Knowledge:** Predictive Modelling
 
 ### Consultancy Skills
 
