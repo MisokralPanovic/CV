@@ -154,6 +154,26 @@ This repository contains the LaTeX source files and supporting materials for my 
       <td>University of Cambridge</td>
     </tr>
     <tr>
+      <td>Biostatistics</td>
+      <td>Biostatistics fro Life Sciences</td>
+      <td>University of Cambridge</td>
+    </tr>
+    <tr>
+      <td>Git | R Markdown</td>
+      <td>Reproducible Research in R</td>
+      <td>University of Cambridge</td>
+    </tr>
+    <tr>
+      <td>Scientific Figure Design</td>
+      <td>Introduction to Scientific Figure Design</td>
+      <td>University of Cambridge</td>
+    </tr>
+    <tr>
+      <td>Bash</td>
+      <td>Introduction to working with UNIX and bash</td>
+      <td>University of Cambridge</td>
+    </tr>
+    <tr>
       <td>Ensembl REST API</td>
       <td>Ensembl REST API Course</td>
       <td>University of Cambridge</td>
@@ -170,6 +190,7 @@ This repository contains the LaTeX source files and supporting materials for my 
     </tr>
   </tbody>
 </table>
+
 
 ## Publications
 
