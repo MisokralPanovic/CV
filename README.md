@@ -155,7 +155,7 @@ This repository contains the LaTeX source files and supporting materials for my 
     </tr>
     <tr>
       <td>Biostatistics</td>
-      <td>Biostatistics fro Life Sciences</td>
+      <td>Biostatistics for Life Sciences</td>
       <td>University of Cambridge</td>
     </tr>
     <tr>
